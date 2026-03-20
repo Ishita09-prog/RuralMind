@@ -1,0 +1,14 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+faiss_index.bin
+
+# Node
+node_modules/
+
+# Env
+.env
+
+# Mac
+.DS_Store
