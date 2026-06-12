@@ -167,15 +167,6 @@ Open the URL Vite prints (usually `http://localhost:5173`).
 - Offline diagram caching
 - Multi-user accounts + a real teacher dashboard
 - Stronger offline multilingual model (e.g. IndicTrans)
-
----
-
-## 👩‍💻 Contributors
-
-- [@Ishita09-prog](https://github.com/Ishita09-prog) — creator
-
-*(See the Contributors tab for the full team.)*
-
 ---
 
 ## 📄 License
