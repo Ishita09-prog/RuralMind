@@ -9,6 +9,14 @@ in that same language, with voice, diagrams, quizzes, and progress tracking.
 
 ---
 
+## 📸 Screenshots
+
+| Ask in any language | Real labeled diagrams | Track your progress |
+|---|---|---|
+| ![Chat](screenshots/chat.png) | ![Diagram](screenshots/diagram.png) | ![Dashboard](screenshots/dashboard.png) |
+
+---
+
 ## ✨ Features
 
 - **Truly multilingual** — ask in any language or script (including romanized
