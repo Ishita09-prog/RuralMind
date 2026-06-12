@@ -52,7 +52,6 @@ def retrieve_answer(query):
             results.append(documents[i])
 
     context = " ".join(results)
-
     return context
 
 

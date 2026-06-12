@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+requests
+langdetect
+gTTS
+deep-translator
+sentence-transformers
+faiss-cpu
+numpy
+pypdf
+python-multipart
+pytesseract
+Pillow
+python-dotenv

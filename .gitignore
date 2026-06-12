@@ -12,3 +12,9 @@ node_modules/
 
 # Mac
 .DS_Store
+
+*.mp3
+*.pdf
+ncert_books/
+# FUSE temp files
+.fuse_hidden*
