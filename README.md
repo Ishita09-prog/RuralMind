@@ -13,7 +13,7 @@ in that same language, with voice, diagrams, quizzes, and progress tracking.
 
 | Ask in any language | Real labeled diagrams | Track your progress |
 |---|---|---|
-| ![Chat](screenshots/chat.png) | ![Diagram](screenshots/diagram.png) | ![Dashboard](screenshots/dashboard.png) |
+| ![Chat](screenshots/chat.jpg) | ![Diagram](screenshots/diagram.jpg) | ![Dashboard](screenshots/dashboard.jpg) |
 
 ---
 
